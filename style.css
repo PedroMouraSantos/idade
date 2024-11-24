@@ -7,8 +7,8 @@ header{
     text-align: center;
 }
 section{
-    background: wheat;
-    color: brown;
+    background: rgb(146, 146, 146);
+    color: rgb(255, 255, 255);
     border-radius: 18px;
     padding: 15px;
     width: 500px;
